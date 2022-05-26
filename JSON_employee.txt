@@ -1,0 +1,23 @@
+{
+	"employees": [
+		{
+			"name"; "Wezeel Daigon",
+			"age": 27,
+			"email": "WezeelDaigon@gmail.com",
+			"onDuty": true
+		},
+		 {
+			"name"; "Wilbert Daigon",
+			"age": 33,
+			"email": "WilbertDaigon@gmail.com",
+			"onDuty": true
+		
+		},
+		 {
+			"name"; "Wezeel Daigon",
+			"age": 21,
+			"email": "WilmarDaigon@gmail.com",
+			"onDuty": false
+		}
+	    ]
+	}
